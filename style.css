@@ -19,7 +19,7 @@ ul{
 header{
     background: rgb(205, 30, 30);
     padding-top: 30px;
-    min-height: 20px;
+    min-height: 70px;
     max-height: 100px;
     border-bottom: rgb(187, 49, 49) 3px solid;
     
